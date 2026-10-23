@@ -1,0 +1,220 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 792 612] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 2184 >>
+stream
+0.953 0.965 0.941 rg 0.953 0.965 0.941 RG 0 w 0 0 792 612 re B
+0.094 0.467 0.420 rg 0.094 0.467 0.420 RG 0 w 0 0 18 612 re B
+0.094 0.467 0.420 rg BT /F2 8 Tf 1 0 0 1 52 555 Tm (SOLSTICE LEARNING  /  SUPPORT ENGINEERING) Tj ET
+0.090 0.192 0.176 rg BT /F2 42 Tf 1 0 0 1 52 482 Tm (Docs Q&A) Tj ET
+0.094 0.467 0.420 rg BT /F1 18 Tf 1 0 0 1 52 443 Tm (A grounded-answer assistant for platform admins) Tj ET
+0.400 0.471 0.455 rg BT /F2 9 Tf 1 0 0 1 52 401 Tm (PRESENTATION + LOCAL DEMO RUNBOOK) Tj ET
+0.835 0.929 0.439 rg 0.835 0.929 0.439 RG 0 w 52 327 688 48 re B
+0.090 0.192 0.176 rg BT /F2 8 Tf 1 0 0 1 70 356 Tm (THE PROMISE) Tj ET
+0.090 0.192 0.176 rg BT /F2 13 Tf 1 0 0 1 70 339 Tm (Answer from the docs, cite the source, or say the docs don't cover it.) Tj ET
+1.000 1.000 1.000 rg 0.851 0.886 0.863 RG 1 w 52 191 218 97 re B
+0.094 0.467 0.420 rg BT /F2 8 Tf 1 0 0 1 66 262 Tm (EVIDENCE FIRST) Tj ET
+0.090 0.192 0.176 rg BT /F1 9 Tf 1 0 0 1 66 239 Tm (Short excerpts come directly) Tj ET
+0.090 0.192 0.176 rg BT /F1 9 Tf 1 0 0 1 66 224 Tm (from the matching article.) Tj ET
+1.000 1.000 1.000 rg 0.851 0.886 0.863 RG 1 w 287 191 218 97 re B
+0.094 0.467 0.420 rg BT /F2 8 Tf 1 0 0 1 301 262 Tm (HONEST ABSTENTION) Tj ET
+0.090 0.192 0.176 rg BT /F1 9 Tf 1 0 0 1 301 239 Tm (Below the evidence threshold,) Tj ET
+0.090 0.192 0.176 rg BT /F1 9 Tf 1 0 0 1 301 224 Tm (return no invented answer.) Tj ET
+1.000 1.000 1.000 rg 0.851 0.886 0.863 RG 1 w 522 191 218 97 re B
+0.094 0.467 0.420 rg BT /F2 8 Tf 1 0 0 1 536 262 Tm (LIGHTWEIGHT V1) Tj ET
+0.090 0.192 0.176 rg BT /F1 9 Tf 1 0 0 1 536 239 Tm (Python standard library; no) Tj ET
+0.090 0.192 0.176 rg BT /F1 9 Tf 1 0 0 1 536 224 Tm (LLM, API key, or paid service.) Tj ET
+0.851 0.376 0.271 rg BT /F2 8 Tf 1 0 0 1 52 130 Tm (IN THIS HANDOUT) Tj ET
+0.090 0.192 0.176 rg BT /F1 10 Tf 1 0 0 1 52 106 Tm (01  Product + design    02  Architecture    03  Run and test    04  Demo outputs) Tj ET
+0.851 0.886 0.863 RG 1 w 52 72 m 740 72 l S
+0.400 0.471 0.455 rg BT /F1 8 Tf 1 0 0 1 52 51 Tm (Local demo backed by six synthetic admin articles and five supplied test questions.) Tj ET
+0.400 0.471 0.455 rg BT /F2 7 Tf 1 0 0 1 52 29 Tm (01 / 04) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 792 612] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 4503 >>
+stream
+0.953 0.965 0.941 rg 0.953 0.965 0.941 RG 0 w 0 0 792 612 re B
+0.094 0.467 0.420 rg BT /F2 8 Tf 1 0 0 1 38 566 Tm (SOLSTICE / DOCS Q&A) Tj ET
+0.090 0.192 0.176 rg BT /F2 22 Tf 1 0 0 1 38 532 Tm (Answer flow and system boundaries) Tj ET
+0.400 0.471 0.455 rg BT /F1 8 Tf 1 0 0 1 38 513 Tm (LOCAL WEB APP  /  EXTRACTIVE RETRIEVAL  /  NO LLM) Tj ET
+0.851 0.886 0.863 RG 1 w 38 498 m 754 498 l S
+1.000 1.000 1.000 rg 0.851 0.886 0.863 RG 1 w 38 326 195 158 re B
+0.094 0.467 0.420 rg 0.094 0.467 0.420 RG 0 w 38 480 195 4 re B
+0.094 0.467 0.420 rg BT /F2 7 Tf 1 0 0 1 53 462 Tm (01 / USER) Tj ET
+0.090 0.192 0.176 rg BT /F2 13 Tf 1 0 0 1 53 441 Tm (Admin browser) Tj ET
+0.090 0.192 0.176 rg BT /F1 8 Tf 1 0 0 1 53 420 Tm (index.html) Tj ET
+0.090 0.192 0.176 rg BT /F1 8 Tf 1 0 0 1 53 405 Tm (Question input + examples) Tj ET
+0.090 0.192 0.176 rg BT /F1 8 Tf 1 0 0 1 53 390 Tm (Displays source excerpts) Tj ET
+0.090 0.192 0.176 rg BT /F1 8 Tf 1 0 0 1 53 375 Tm (or an honest abstention) Tj ET
+1.000 1.000 1.000 rg 0.851 0.886 0.863 RG 1 w 298 326 195 158 re B
+0.851 0.376 0.271 rg 0.851 0.376 0.271 RG 0 w 298 480 195 4 re B
+0.851 0.376 0.271 rg BT /F2 7 Tf 1 0 0 1 313 462 Tm (02 / HTTP) Tj ET
+0.090 0.192 0.176 rg BT /F2 13 Tf 1 0 0 1 313 441 Tm (Python app) Tj ET
+0.090 0.192 0.176 rg BT /F1 8 Tf 1 0 0 1 313 420 Tm (app.py) Tj ET
+0.090 0.192 0.176 rg BT /F1 8 Tf 1 0 0 1 313 405 Tm (GET / serves the interface) Tj ET
+0.090 0.192 0.176 rg BT /F1 8 Tf 1 0 0 1 313 390 Tm (POST /ask accepts question JSON) Tj ET
+0.090 0.192 0.176 rg BT /F1 8 Tf 1 0 0 1 313 375 Tm (GET /health reports status) Tj ET
+1.000 1.000 1.000 rg 0.851 0.886 0.863 RG 1 w 558 326 196 158 re B
+0.690 0.784 0.251 rg 0.690 0.784 0.251 RG 0 w 558 480 196 4 re B
+0.690 0.784 0.251 rg BT /F2 7 Tf 1 0 0 1 573 462 Tm (03 / DECISION) Tj ET
+0.090 0.192 0.176 rg BT /F2 13 Tf 1 0 0 1 573 441 Tm (Retrieval policy) Tj ET
+0.090 0.192 0.176 rg BT /F1 8 Tf 1 0 0 1 573 420 Tm (retrieval.py) Tj ET
+0.090 0.192 0.176 rg BT /F1 8 Tf 1 0 0 1 573 405 Tm (Normalize and weight query terms) Tj ET
+0.090 0.192 0.176 rg BT /F1 8 Tf 1 0 0 1 573 390 Tm (Score title + article content) Tj ET
+0.090 0.192 0.176 rg BT /F1 8 Tf 1 0 0 1 573 375 Tm (Require score >= 0.50) Tj ET
+0.090 0.192 0.176 rg BT /F1 8 Tf 1 0 0 1 573 360 Tm (Return up to 2 source sentences) Tj ET
+0.090 0.192 0.176 rg BT /F1 8 Tf 1 0 0 1 573 345 Tm (Otherwise: abstain) Tj ET
+1.000 1.000 1.000 rg 0.851 0.886 0.863 RG 1 w 558 111 196 138 re B
+0.851 0.376 0.271 rg 0.851 0.376 0.271 RG 0 w 558 245 196 4 re B
+0.851 0.376 0.271 rg BT /F2 7 Tf 1 0 0 1 573 227 Tm (04 / KNOWLEDGE) Tj ET
+0.090 0.192 0.176 rg BT /F2 13 Tf 1 0 0 1 573 206 Tm (Documentation) Tj ET
+0.090 0.192 0.176 rg BT /F1 8 Tf 1 0 0 1 573 185 Tm (data/docs.json) Tj ET
+0.090 0.192 0.176 rg BT /F1 8 Tf 1 0 0 1 573 170 Tm (6 articles loaded at startup) Tj ET
+0.090 0.192 0.176 rg BT /F1 8 Tf 1 0 0 1 573 155 Tm (All positive answers cite a source) Tj ET
+0.090 0.192 0.176 rg BT /F1 8 Tf 1 0 0 1 573 140 Tm (No external service or model) Tj ET
+0.094 0.467 0.420 RG 1.5 w 233 447 m 298 447 l S
+0.094 0.467 0.420 RG 1.5 w 292 451 m 298 447 l 292 443 l S
+0.063 0.341 0.310 rg BT /F2 7 Tf 1 0 0 1 239 458 Tm (POST /ask) Tj ET
+0.851 0.376 0.271 RG 1.5 w 298 382 m 233 382 l S
+0.851 0.376 0.271 RG 1.5 w 239 386 m 233 382 l 239 378 l S
+0.659 0.267 0.196 rg BT /F2 7 Tf 1 0 0 1 239 369 Tm (ANSWER JSON) Tj ET
+0.094 0.467 0.420 RG 1.5 w 493 447 m 558 447 l S
+0.094 0.467 0.420 RG 1.5 w 552 451 m 558 447 l 552 443 l S
+0.063 0.341 0.310 rg BT /F2 7 Tf 1 0 0 1 515 458 Tm (query) Tj ET
+0.851 0.376 0.271 RG 1.5 w 558 382 m 493 382 l S
+0.851 0.376 0.271 RG 1.5 w 499 386 m 493 382 l 499 378 l S
+0.659 0.267 0.196 rg BT /F2 7 Tf 1 0 0 1 520 369 Tm (result) Tj ET
+0.094 0.467 0.420 RG 1.5 w 656 249 m 656 326 l S
+0.094 0.467 0.420 RG 1.5 w 652 320 m 656 326 l 660 320 l S
+0.063 0.341 0.310 rg BT /F2 7 Tf 1 0 0 1 665 281 Tm (corpus) Tj ET
+0.835 0.929 0.439 rg 0.835 0.929 0.439 RG 0 w 38 75 716 17 re B
+0.090 0.192 0.176 rg BT /F2 7 Tf 1 0 0 1 48 80 Tm (GROUNDED ANSWERS) Tj ET
+0.090 0.192 0.176 rg BT /F1 7 Tf 1 0 0 1 180 80 Tm (Query -> ranked article -> evidence threshold -> cited excerpts OR documented no-answer) Tj ET
+0.400 0.471 0.455 rg BT /F1 8 Tf 1 0 0 1 38 49 Tm (Threshold is a v1 policy \(not calibrated confidence\); validate against real support questions before production.) Tj ET
+0.400 0.471 0.455 rg BT /F1 7 Tf 1 0 0 1 38 29 Tm (Generated from the current implementation. See export_architecture_pdf.py to regenerate.) Tj ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 792 612] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 2908 >>
+stream
+0.953 0.965 0.941 rg 0.953 0.965 0.941 RG 0 w 0 0 792 612 re B
+0.094 0.467 0.420 rg BT /F2 8 Tf 1 0 0 1 38 574 Tm (03 / EXECUTION RUNBOOK) Tj ET
+0.090 0.192 0.176 rg BT /F2 20 Tf 1 0 0 1 38 542 Tm (Run and verify the local app) Tj ET
+0.400 0.471 0.455 rg BT /F1 8 Tf 1 0 0 1 38 523 Tm (From the repository root. No virtual environment or package installation is required for this standard-library demo.) Tj ET
+0.851 0.886 0.863 RG 1 w 38 508 m 754 508 l S
+0.851 0.886 0.863 RG 1 w 38 26 m 754 26 l S
+0.400 0.471 0.455 rg BT /F2 7 Tf 1 0 0 1 38 12 Tm (SOLSTICE LEARNING  /  DOCS Q&A) Tj ET
+0.400 0.471 0.455 rg BT /F2 7 Tf 1 0 0 1 736 12 Tm (03 / 04) Tj ET
+0.835 0.929 0.439 rg 0.835 0.929 0.439 RG 0 w 38 441 716 45 re B
+0.090 0.192 0.176 rg BT /F2 8 Tf 1 0 0 1 52 466 Tm (DEPENDENCIES) Tj ET
+0.090 0.192 0.176 rg BT /F2 9 Tf 1 0 0 1 162 466 Tm (Python 3.10+ only. No pip install, requirements file, LLM, or API key.) Tj ET
+1.000 1.000 1.000 rg 0.851 0.886 0.863 RG 1 w 38 350 716 66 re B
+0.094 0.467 0.420 rg 0.094 0.467 0.420 RG 0 w 38 350 33 66 re B
+1.000 1.000 1.000 rg BT /F2 13 Tf 1 0 0 1 50 389 Tm (1) Tj ET
+0.094 0.467 0.420 rg BT /F2 8 Tf 1 0 0 1 84 397 Tm (CHECK PYTHON) Tj ET
+0.090 0.192 0.176 rg BT /F2 9 Tf 1 0 0 1 84 377 Tm (python --version) Tj ET
+0.400 0.471 0.455 rg BT /F1 8 Tf 1 0 0 1 84 360 Tm (Use Python 3.10 or later.) Tj ET
+1.000 1.000 1.000 rg 0.851 0.886 0.863 RG 1 w 38 270 716 66 re B
+0.094 0.467 0.420 rg 0.094 0.467 0.420 RG 0 w 38 270 33 66 re B
+1.000 1.000 1.000 rg BT /F2 13 Tf 1 0 0 1 50 309 Tm (2) Tj ET
+0.094 0.467 0.420 rg BT /F2 8 Tf 1 0 0 1 84 317 Tm (RUN TESTS) Tj ET
+0.090 0.192 0.176 rg BT /F2 9 Tf 1 0 0 1 84 297 Tm (python -m unittest discover -s starter_kit -p 'test_*.py' -v) Tj ET
+0.400 0.471 0.455 rg BT /F1 8 Tf 1 0 0 1 84 280 Tm (Checks all five example questions, source selection, key facts, and abstention.) Tj ET
+1.000 1.000 1.000 rg 0.851 0.886 0.863 RG 1 w 38 190 716 66 re B
+0.094 0.467 0.420 rg 0.094 0.467 0.420 RG 0 w 38 190 33 66 re B
+1.000 1.000 1.000 rg BT /F2 13 Tf 1 0 0 1 50 229 Tm (3) Tj ET
+0.094 0.467 0.420 rg BT /F2 8 Tf 1 0 0 1 84 237 Tm (START THE APP) Tj ET
+0.090 0.192 0.176 rg BT /F2 9 Tf 1 0 0 1 84 217 Tm (python starter_kit/app.py) Tj ET
+0.400 0.471 0.455 rg BT /F1 8 Tf 1 0 0 1 84 200 Tm (Server listens on http://127.0.0.1:8000 by default.) Tj ET
+1.000 1.000 1.000 rg 0.851 0.886 0.863 RG 1 w 38 110 716 66 re B
+0.094 0.467 0.420 rg 0.094 0.467 0.420 RG 0 w 38 110 33 66 re B
+1.000 1.000 1.000 rg BT /F2 13 Tf 1 0 0 1 50 149 Tm (4) Tj ET
+0.094 0.467 0.420 rg BT /F2 8 Tf 1 0 0 1 84 157 Tm (OPEN THE BROWSER) Tj ET
+0.090 0.192 0.176 rg BT /F2 9 Tf 1 0 0 1 84 137 Tm (http://127.0.0.1:8000) Tj ET
+0.400 0.471 0.455 rg BT /F1 8 Tf 1 0 0 1 84 120 Tm (Use a sample prompt or enter an admin question. Stop with Ctrl+C.) Tj ET
+0.400 0.471 0.455 rg BT /F2 8 Tf 1 0 0 1 38 54 Tm (Optional port: PORT=8001 python starter_kit/app.py) Tj ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 792 612] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 3113 >>
+stream
+0.953 0.965 0.941 rg 0.953 0.965 0.941 RG 0 w 0 0 792 612 re B
+0.094 0.467 0.420 rg BT /F2 8 Tf 1 0 0 1 38 574 Tm (04 / LIVE DEMO) Tj ET
+0.090 0.192 0.176 rg BT /F2 20 Tf 1 0 0 1 38 542 Tm (Show the answer and the boundary) Tj ET
+0.400 0.471 0.455 rg BT /F1 8 Tf 1 0 0 1 38 523 Tm (Run the question in the browser, then contrast a documented fact with a deliberate no-answer.) Tj ET
+0.851 0.886 0.863 RG 1 w 38 508 m 754 508 l S
+0.851 0.886 0.863 RG 1 w 38 26 m 754 26 l S
+0.400 0.471 0.455 rg BT /F2 7 Tf 1 0 0 1 38 12 Tm (SOLSTICE LEARNING  /  DOCS Q&A) Tj ET
+0.400 0.471 0.455 rg BT /F2 7 Tf 1 0 0 1 736 12 Tm (04 / 04) Tj ET
+1.000 1.000 1.000 rg 0.851 0.886 0.863 RG 1 w 38 348 348 133 re B
+0.094 0.467 0.420 rg 0.094 0.467 0.420 RG 0 w 38 477 348 4 re B
+0.094 0.467 0.420 rg BT /F2 8 Tf 1 0 0 1 54 457 Tm (SUPPORTED QUESTION) Tj ET
+0.090 0.192 0.176 rg BT /F2 10 Tf 1 0 0 1 54 438 Tm (What's the maximum CSV export limit?) Tj ET
+0.090 0.192 0.176 rg BT /F1 10 Tf 1 0 0 1 54 414 Tm (CSV exports are capped at 10,000 rows.) Tj ET
+0.063 0.341 0.310 rg BT /F2 8 Tf 1 0 0 1 54 396 Tm (Source: Exporting Reports to CSV / D-03) Tj ET
+0.400 0.471 0.455 rg BT /F1 8 Tf 1 0 0 1 54 370 Tm (Answer is extracted from the docs; source is shown in the UI.) Tj ET
+1.000 1.000 1.000 rg 0.851 0.886 0.863 RG 1 w 406 348 348 133 re B
+0.851 0.376 0.271 rg 0.851 0.376 0.271 RG 0 w 406 477 348 4 re B
+0.659 0.267 0.196 rg BT /F2 8 Tf 1 0 0 1 422 457 Tm (NOT COVERED) Tj ET
+0.090 0.192 0.176 rg BT /F2 10 Tf 1 0 0 1 422 438 Tm (Can I connect Solstice to Salesforce?) Tj ET
+0.090 0.192 0.176 rg BT /F1 10 Tf 1 0 0 1 422 414 Tm (I don't have an answer for that in the) Tj ET
+0.090 0.192 0.176 rg BT /F1 10 Tf 1 0 0 1 422 398 Tm (documentation.) Tj ET
+0.400 0.471 0.455 rg BT /F1 8 Tf 1 0 0 1 422 370 Tm (No product integration is guessed or invented.) Tj ET
+0.094 0.467 0.420 rg BT /F2 8 Tf 1 0 0 1 38 318 Tm (OPTIONAL API CHECK) Tj ET
+0.090 0.192 0.176 rg 0.090 0.192 0.176 RG 0 w 38 216 716 84 re B
+1.000 1.000 1.000 rg BT /F1 8 Tf 1 0 0 1 54 277 Tm (curl -sS -X POST http://127.0.0.1:8000/ask \\) Tj ET
+1.000 1.000 1.000 rg BT /F1 8 Tf 1 0 0 1 54 260 Tm (  -H 'Content-Type: application/json' \\) Tj ET
+1.000 1.000 1.000 rg BT /F1 8 Tf 1 0 0 1 54 243 Tm (  -d '{"question":"What is the maximum CSV export limit?"}') Tj ET
+0.400 0.471 0.455 rg BT /F2 8 Tf 1 0 0 1 38 194 Tm (Observed JSON response) Tj ET
+1.000 1.000 1.000 rg 0.851 0.886 0.863 RG 1 w 38 83 716 96 re B
+0.090 0.192 0.176 rg BT /F1 8 Tf 1 0 0 1 53 160 Tm ({"answered": true, "answer": "Important limit: CSV exports are capped at 10,000 rows...",) Tj ET
+0.090 0.192 0.176 rg BT /F1 8 Tf 1 0 0 1 53 143 Tm ( "source": {"doc_id": "D-03", "title": "Exporting Reports to CSV"},) Tj ET
+0.090 0.192 0.176 rg BT /F1 8 Tf 1 0 0 1 53 126 Tm ( "confidence": 0.785}) Tj ET
+0.659 0.267 0.196 rg BT /F2 8 Tf 1 0 0 1 53 101 Tm (The score is a heuristic ranking value, not calibrated probability; UI focuses on answer + citation.) Tj ET
+0.400 0.471 0.455 rg BT /F2 8 Tf 1 0 0 1 38 52 Tm (Decision rule: accept the top article at >= 0.50 weighted evidence; otherwise abstain.) Tj ET
+endstream
+endobj
+xref
+0 13
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000134 00000 n 
+0000000204 00000 n 
+0000000279 00000 n 
+0000000415 00000 n 
+0000002651 00000 n 
+0000002787 00000 n 
+0000007342 00000 n 
+0000007479 00000 n 
+0000010440 00000 n 
+0000010578 00000 n 
+trailer
+<< /Size 13 /Root 1 0 R >>
+startxref
+13744
+%%EOF

@@ -1,0 +1,94 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 792 612] /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> /Contents 6 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+6 0 obj
+<< /Length 4503 >>
+stream
+0.953 0.965 0.941 rg 0.953 0.965 0.941 RG 0 w 0 0 792 612 re B
+0.094 0.467 0.420 rg BT /F2 8 Tf 1 0 0 1 38 566 Tm (SOLSTICE / DOCS Q&A) Tj ET
+0.090 0.192 0.176 rg BT /F2 22 Tf 1 0 0 1 38 532 Tm (Answer flow and system boundaries) Tj ET
+0.400 0.471 0.455 rg BT /F1 8 Tf 1 0 0 1 38 513 Tm (LOCAL WEB APP  /  EXTRACTIVE RETRIEVAL  /  NO LLM) Tj ET
+0.851 0.886 0.863 RG 1 w 38 498 m 754 498 l S
+1.000 1.000 1.000 rg 0.851 0.886 0.863 RG 1 w 38 326 195 158 re B
+0.094 0.467 0.420 rg 0.094 0.467 0.420 RG 0 w 38 480 195 4 re B
+0.094 0.467 0.420 rg BT /F2 7 Tf 1 0 0 1 53 462 Tm (01 / USER) Tj ET
+0.090 0.192 0.176 rg BT /F2 13 Tf 1 0 0 1 53 441 Tm (Admin browser) Tj ET
+0.090 0.192 0.176 rg BT /F1 8 Tf 1 0 0 1 53 420 Tm (index.html) Tj ET
+0.090 0.192 0.176 rg BT /F1 8 Tf 1 0 0 1 53 405 Tm (Question input + examples) Tj ET
+0.090 0.192 0.176 rg BT /F1 8 Tf 1 0 0 1 53 390 Tm (Displays source excerpts) Tj ET
+0.090 0.192 0.176 rg BT /F1 8 Tf 1 0 0 1 53 375 Tm (or an honest abstention) Tj ET
+1.000 1.000 1.000 rg 0.851 0.886 0.863 RG 1 w 298 326 195 158 re B
+0.851 0.376 0.271 rg 0.851 0.376 0.271 RG 0 w 298 480 195 4 re B
+0.851 0.376 0.271 rg BT /F2 7 Tf 1 0 0 1 313 462 Tm (02 / HTTP) Tj ET
+0.090 0.192 0.176 rg BT /F2 13 Tf 1 0 0 1 313 441 Tm (Python app) Tj ET
+0.090 0.192 0.176 rg BT /F1 8 Tf 1 0 0 1 313 420 Tm (app.py) Tj ET
+0.090 0.192 0.176 rg BT /F1 8 Tf 1 0 0 1 313 405 Tm (GET / serves the interface) Tj ET
+0.090 0.192 0.176 rg BT /F1 8 Tf 1 0 0 1 313 390 Tm (POST /ask accepts question JSON) Tj ET
+0.090 0.192 0.176 rg BT /F1 8 Tf 1 0 0 1 313 375 Tm (GET /health reports status) Tj ET
+1.000 1.000 1.000 rg 0.851 0.886 0.863 RG 1 w 558 326 196 158 re B
+0.690 0.784 0.251 rg 0.690 0.784 0.251 RG 0 w 558 480 196 4 re B
+0.690 0.784 0.251 rg BT /F2 7 Tf 1 0 0 1 573 462 Tm (03 / DECISION) Tj ET
+0.090 0.192 0.176 rg BT /F2 13 Tf 1 0 0 1 573 441 Tm (Retrieval policy) Tj ET
+0.090 0.192 0.176 rg BT /F1 8 Tf 1 0 0 1 573 420 Tm (retrieval.py) Tj ET
+0.090 0.192 0.176 rg BT /F1 8 Tf 1 0 0 1 573 405 Tm (Normalize and weight query terms) Tj ET
+0.090 0.192 0.176 rg BT /F1 8 Tf 1 0 0 1 573 390 Tm (Score title + article content) Tj ET
+0.090 0.192 0.176 rg BT /F1 8 Tf 1 0 0 1 573 375 Tm (Require score >= 0.50) Tj ET
+0.090 0.192 0.176 rg BT /F1 8 Tf 1 0 0 1 573 360 Tm (Return up to 2 source sentences) Tj ET
+0.090 0.192 0.176 rg BT /F1 8 Tf 1 0 0 1 573 345 Tm (Otherwise: abstain) Tj ET
+1.000 1.000 1.000 rg 0.851 0.886 0.863 RG 1 w 558 111 196 138 re B
+0.851 0.376 0.271 rg 0.851 0.376 0.271 RG 0 w 558 245 196 4 re B
+0.851 0.376 0.271 rg BT /F2 7 Tf 1 0 0 1 573 227 Tm (04 / KNOWLEDGE) Tj ET
+0.090 0.192 0.176 rg BT /F2 13 Tf 1 0 0 1 573 206 Tm (Documentation) Tj ET
+0.090 0.192 0.176 rg BT /F1 8 Tf 1 0 0 1 573 185 Tm (data/docs.json) Tj ET
+0.090 0.192 0.176 rg BT /F1 8 Tf 1 0 0 1 573 170 Tm (6 articles loaded at startup) Tj ET
+0.090 0.192 0.176 rg BT /F1 8 Tf 1 0 0 1 573 155 Tm (All positive answers cite a source) Tj ET
+0.090 0.192 0.176 rg BT /F1 8 Tf 1 0 0 1 573 140 Tm (No external service or model) Tj ET
+0.094 0.467 0.420 RG 1.5 w 233 447 m 298 447 l S
+0.094 0.467 0.420 RG 1.5 w 292 451 m 298 447 l 292 443 l S
+0.063 0.341 0.310 rg BT /F2 7 Tf 1 0 0 1 239 458 Tm (POST /ask) Tj ET
+0.851 0.376 0.271 RG 1.5 w 298 382 m 233 382 l S
+0.851 0.376 0.271 RG 1.5 w 239 386 m 233 382 l 239 378 l S
+0.659 0.267 0.196 rg BT /F2 7 Tf 1 0 0 1 239 369 Tm (ANSWER JSON) Tj ET
+0.094 0.467 0.420 RG 1.5 w 493 447 m 558 447 l S
+0.094 0.467 0.420 RG 1.5 w 552 451 m 558 447 l 552 443 l S
+0.063 0.341 0.310 rg BT /F2 7 Tf 1 0 0 1 515 458 Tm (query) Tj ET
+0.851 0.376 0.271 RG 1.5 w 558 382 m 493 382 l S
+0.851 0.376 0.271 RG 1.5 w 499 386 m 493 382 l 499 378 l S
+0.659 0.267 0.196 rg BT /F2 7 Tf 1 0 0 1 520 369 Tm (result) Tj ET
+0.094 0.467 0.420 RG 1.5 w 656 249 m 656 326 l S
+0.094 0.467 0.420 RG 1.5 w 652 320 m 656 326 l 660 320 l S
+0.063 0.341 0.310 rg BT /F2 7 Tf 1 0 0 1 665 281 Tm (corpus) Tj ET
+0.835 0.929 0.439 rg 0.835 0.929 0.439 RG 0 w 38 75 716 17 re B
+0.090 0.192 0.176 rg BT /F2 7 Tf 1 0 0 1 48 80 Tm (GROUNDED ANSWERS) Tj ET
+0.090 0.192 0.176 rg BT /F1 7 Tf 1 0 0 1 180 80 Tm (Query -> ranked article -> evidence threshold -> cited excerpts OR documented no-answer) Tj ET
+0.400 0.471 0.455 rg BT /F1 8 Tf 1 0 0 1 38 49 Tm (Threshold is a v1 policy \(not calibrated confidence\); validate against real support questions before production.) Tj ET
+0.400 0.471 0.455 rg BT /F1 7 Tf 1 0 0 1 38 29 Tm (Generated from the current implementation. See export_architecture_pdf.py to regenerate.) Tj ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000000321 00000 n 
+0000000396 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+4951
+%%EOF
